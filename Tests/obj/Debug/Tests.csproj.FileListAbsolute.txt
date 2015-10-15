@@ -1,0 +1,5 @@
+C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\bin\Debug\Tests.dll
+C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\bin\Debug\Tests.pdb
+C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.dll
+C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.pdb
