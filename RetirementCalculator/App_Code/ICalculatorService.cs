@@ -16,7 +16,6 @@ public interface ICalculatorService
     [OperationContract]
     Double ValueAtRetirement(Double StartingBalance, Double MonthlyDeposit);
 
-	// TODO: Add your service operations here
 }
 
 

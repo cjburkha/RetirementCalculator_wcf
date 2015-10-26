@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RetirementCalculator(1)", "http://localhost:1081", "{A8DA792C-205A-4CAD-ADA5-841FF59B84CB}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RetirementCalculator", "http://localhost:1081", "{A8DA792C-205A-4CAD-ADA5-841FF59B84CB}"
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
@@ -25,6 +25,9 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RetirementCalculator(1)", "
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{CFC21CAA-596C-4A97-9B5D-5D3143644928}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A8DA792C-205A-4CAD-ADA5-841FF59B84CB} = {A8DA792C-205A-4CAD-ADA5-841FF59B84CB}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,3 +3,10 @@ C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests
 C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
 C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.dll
 C:\Users\chrisb\Documents\Visual Studio 2013\Projects\RetirementCalculator\Tests\obj\Debug\Tests.pdb
+C:\projects\RetirementCalculator_wcf\Tests\bin\Debug\Tests.dll
+C:\projects\RetirementCalculator_wcf\Tests\bin\Debug\Tests.pdb
+C:\projects\RetirementCalculator_wcf\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\RetirementCalculator_wcf\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\projects\RetirementCalculator_wcf\Tests\obj\Debug\Tests.dll
+C:\projects\RetirementCalculator_wcf\Tests\obj\Debug\Tests.pdb
+C:\projects\RetirementCalculator_wcf\Tests\bin\Debug\Tests.dll.config

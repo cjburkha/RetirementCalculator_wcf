@@ -10,12 +10,9 @@ public class RetirementCalculator
 {
     public Double StartingBalance { get; set; }
     public Double MonthlyIncrease { get; set; }
-	public RetirementCalculator()
-	{
-		//
-		// TODO: Add constructor logic here
-		//
-	}
+    public RetirementCalculator()
+    {
+    }
 
     public RetirementCalculator(Double startingBalance, Double monthlyIncrease)
     {
